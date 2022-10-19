@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 * 💻 I’m currently working with back-end
-* 🐘 I’m currently learning english, php and laravel
+* 🐘 I’m currently learning english, php, laravel and node
 * ⌚ My experience time: 2y
 
 ##
