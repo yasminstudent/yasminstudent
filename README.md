@@ -2,7 +2,7 @@
 
 * 💻 I’m currently working with back-end
 * 🐘 I’m currently learning english, php, laravel and node
-* ⌚ My experience time: 2y
+* ⌚ My experience time: 3y
 
 ##
 
